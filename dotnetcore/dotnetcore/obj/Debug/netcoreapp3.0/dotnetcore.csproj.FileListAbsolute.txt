@@ -1,5 +1,6 @@
 C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\bin\Debug\netcoreapp3.0\appsettings.Development.json
 C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\bin\Debug\netcoreapp3.0\dotnetcore.exe
 C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\bin\Debug\netcoreapp3.0\dotnetcore.deps.json
 C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\bin\Debug\netcoreapp3.0\dotnetcore.runtimeconfig.json
@@ -32,6 +33,3 @@ C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\obj\Debug\netco
 C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\obj\Debug\netcoreapp3.0\dotnetcore.dll
 C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\obj\Debug\netcoreapp3.0\dotnetcore.pdb
 C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\obj\Debug\netcoreapp3.0\dotnetcore.csproj.CopyComplete
-C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\obj\Debug\netcoreapp3.0\dotnetcore.csproj.CoreCompileInputs.cache
-C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\obj\Debug\netcoreapp3.0\scopedcss\bundle\dotnetcore.styles.css
-C:\Users\Md\source\repos\msinfy\dotnetcore\dotnetcore\dotnetcore\obj\Debug\netcoreapp3.0\dotnetcore.genruntimeconfig.cache
