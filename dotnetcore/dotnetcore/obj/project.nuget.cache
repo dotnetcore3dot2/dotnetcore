@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KL8VoftMwnS6ChKrl/ajdh/KrYkBEsFBc7AMMEairQuvuZkZcbpG8p4rKZIRBf9v+dK65MsrlQqOJG2rvL53mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Md\\source\\repos\\msinfy\\dotnetcore\\dotnetcore\\dotnetcore\\dotnetcore.csproj",
+  "expectedPackageFiles": [
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
